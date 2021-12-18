@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MehmtEge
-- 👀 I’m interested in Artificial Intelligence
+- 👀 I’m interested in data science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
